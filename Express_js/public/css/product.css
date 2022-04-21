@@ -1,0 +1,34 @@
+.product-form {
+    width: 30rem;
+    max-width: 90%;
+    margin: auto;
+}
+
+.form-control {
+    margin: 1rem 0;
+}
+
+.form-control label,
+.form-control input {
+    display: block;
+}
+
+.form-control input {
+    border: 1px solid rgb(95, 1, 114);
+    font: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 2px;
+    width: 100%;
+}
+
+button {
+    font: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(230, 174, 90);
+    border: 2px solid rgb(230, 174, 90);
+    background: rgb(95, 1, 114);
+}
+
+button:hover,
+button:active {
+    color: rgb(95, 1, 114);
+    background: rgb(230, 174, 90);
+}
